@@ -1,0 +1,30 @@
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.deps.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\ref\Northwind.Dal.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csprojAssemblyReference.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfo.cs
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\ref\Northwind.Dal.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CopyComplete
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.deps.json
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\ref\Northwind.Dal.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\Northwind.Dal.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.AssemblyInfo.cs
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.csproj.CopyComplete
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\ref\Northwind.Dal.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Dal\obj\Debug\net5.0\Northwind.Dal.pdb

@@ -1,0 +1,38 @@
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.deps.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\ref\Northwind.Bll.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfoInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfo.cs
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CoreCompileInputs.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\ref\Northwind.Bll.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csprojAssemblyReference.cache
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Dal.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Dal.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CopyComplete
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.deps.json
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\ref\Northwind.Bll.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Dal.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Dal.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfo.cs
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CopyComplete
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\ref\Northwind.Bll.dll
+C:\Users\user\Desktop\bupa-acibadem-full-stack-bootcamp\hafta-3\ders-3\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.pdb

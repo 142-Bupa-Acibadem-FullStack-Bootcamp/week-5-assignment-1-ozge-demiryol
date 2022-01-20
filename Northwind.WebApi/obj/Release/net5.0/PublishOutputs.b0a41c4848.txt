@@ -1,0 +1,11 @@
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.exe
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.deps.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.runtimeconfig.json
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.pdb
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Egitim\Patika\Bupa Acıbadem\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

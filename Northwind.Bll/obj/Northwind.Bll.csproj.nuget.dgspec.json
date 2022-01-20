@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Bll\\Northwind.Bll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Bll\\Northwind.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Bll\\Northwind.Bll.csproj",
+        "projectName": "Northwind.Bll",
+        "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Bll\\Northwind.Bll.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\Northwind.Dal.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\Northwind.Dal.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\Northwind.Interface.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\Northwind.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\Northwind.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\Northwind.Dal.csproj",
+        "projectName": "Northwind.Dal",
+        "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\Northwind.Dal.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj",
+        "projectName": "Northwind.Entity",
+        "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\Northwind.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\Northwind.Interface.csproj",
+        "projectName": "Northwind.Interface",
+        "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\Northwind.Interface.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\bupa-acibadem-full-stack-bootcamp\\week5-assignment1\\Northwind.Entity\\Northwind.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
